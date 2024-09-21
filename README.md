@@ -10,4 +10,3 @@ story 1-https://public.tableau.com/views/BUSINESEXPENSESE2/Story1?:language=en-U
 
 story 2-https://public.tableau.com/views/BUSINESEXPENSESE2/Story2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-DEMO vide link - https://drive.google.com/file/d/1iGreRWa9D-H7bm_1cPgjI5hw08NN8snU/view?usp=sharing
